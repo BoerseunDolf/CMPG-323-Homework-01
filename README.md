@@ -1,5 +1,5 @@
 # CMPG-323-Homework-01
-School Discipline System Development
+School Discipline System Production
 
 ## <heading 2>
 We as programmers aim to simplify the disciplinary systems of schools in South Africa by providing a very easy to use cost effective system. 
